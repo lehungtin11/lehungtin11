@@ -34,7 +34,7 @@
 
 - 📫 How to reach me **hungtin640@gmail.com** or leave a message here **<a href="https://lehungtin11.com/#contact" target="_blank"> lehungtin11.com </a>**
 
-- 💬 Ask me about **.Net, ReactJS, React Native, NodeJS, NoSQL, SQL, Linux, RabbitMQ, Docker, Git**
+- 💬 Ask me about **.Net, ReactJS, React Native, NodeJS, Spring Boot, NoSQL, SQL, Linux, RabbitMQ, Docker, Git, OutSystems, Joget...**
 
 
 ## Languages and Tools
