@@ -3,19 +3,7 @@
   <img src="https://readme-typing-svg.demolab.com/?lines=Software%20developer;A%20passionate%20Web%20and%20Application%20developer%20from%20Vietnam&font=Fira%20Code&center=true&width=900&height=45&color=fff53a&vCenter=true&pause=500&size=25" alt="Introduction"/>
 </p>
 
-<h3 align="center">Hey there, I'm <a href="https://lehungtin11.pages.dev/">Hung Tin Le</a></h3>
-<h4 align="center">Below are a few links you can visit and some stats to look at too</h4>
-<p align="center">
-  <a href="https://www.linkedin.com/in/lehungtin11" target="_blank"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn-lehungtin11" /></a>
-  <a href="mailto:hungtin640@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail-hungtin640@gmail.com" /></a>
-  <a href="https://www.dev.to/lehungtin11" target="_blank"><img src="https://img.shields.io/badge/Dev-%2321232e.svg?style=for-the-badge&logo=dev.to&logoColor=white" alt="DevTo-lehungtin11" /></a>
-  <a href="https://www.facebook.com/Lee.j0han/" target="_blank"><img src="https://img.shields.io/badge/Facebook-%231877F2.svg?style=for-the-badge&logo=Facebook&logoColor=white" alt="Facebook-lehungtin11" /></a>
-  <a href="https://www.instagram.com/le_hung_tin" target="_blank"><img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white" alt="Instagram-lehungtin11" /></a>
-  <a href="https://twitter.com/lehungtin11" target="_blank"><img src="https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white" alt="Twitter-lehungtin11" /></a>
-</p>
-<p align="center">
-  <a href="https://lehungtin11.pages.dev/" target="_blank"><img src="https://img.shields.io/badge/Website:-Lehungtin11.com-%235a43cb?style=for-the-badge&logo=Read.cv&logoColor=white" alt="MyWebsite-lehungtin11" /></a>
-</p>
+<h3 align="center">Hey there, I'm Johan Lee</a></h3>
 
 ## Profile Views
   <table>
@@ -31,8 +19,6 @@
 
 ## What I'm Doing
 - 🌱 I’m currently learning **Data Structures and Algorithms**
-
-- 📫 How to reach me **hungtin640@gmail.com** or leave a message here **<a href="https://lehungtin11.pages.dev//#contact" target="_blank"> lehungtin11.com </a>**
 
 - 💬 Ask me about **PHP, Javascript, HTML & CSS, SQL, Linux, RabbitMQ, Docker, Git, Lowcode, OutSystems, Joget...**
 
